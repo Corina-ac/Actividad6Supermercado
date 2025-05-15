@@ -1,0 +1,32 @@
+{
+  "marisco": {
+    "nombre": "marisco",
+    "productos": [
+      {
+        "id": 1,
+        "nombre": "camaron",
+        "precio": 3.5
+      }
+    ]
+  },
+  "lacteos": {
+    "nombre": "lacteos",
+    "productos": [
+      {
+        "id": 2,
+        "nombre": "leche",
+        "precio": 1.15
+      }
+    ]
+  },
+  "trigo": {
+    "nombre": "trigo",
+    "productos": [
+      {
+        "id": 3,
+        "nombre": "pan",
+        "precio": 0.5
+      }
+    ]
+  }
+}
