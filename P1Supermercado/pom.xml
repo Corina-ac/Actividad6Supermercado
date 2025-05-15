@@ -31,7 +31,7 @@
                 <artifactId>exec-maven-plugin</artifactId>
                 <version>3.1.0</version>
                 <configuration>
-                    <mainClass>${exec.mainClass}</mainClass>
+                    <mainClass>miespe.p1supermercado.P1Supermercado</mainClass>
                     
                 </configuration>
             </plugin>
